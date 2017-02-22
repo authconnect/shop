@@ -1,0 +1,14 @@
+/Users/chandanreddy/git/shopizer/sm-core-modules/src/main/java/com/salesmanager/core/modules/integration/shipping/model/ShippingQuotePrePostProcessModule.java
+/Users/chandanreddy/git/shopizer/sm-core-modules/src/main/java/com/salesmanager/core/modules/integration/shipping/model/Packaging.java
+/Users/chandanreddy/git/shopizer/sm-core-modules/src/main/java/com/salesmanager/core/modules/integration/shipping/model/CustomShippingQuotesConfiguration.java
+/Users/chandanreddy/git/shopizer/sm-core-modules/src/main/java/com/salesmanager/core/modules/utils/Encryption.java
+/Users/chandanreddy/git/shopizer/sm-core-modules/src/main/java/com/salesmanager/core/modules/integration/shipping/model/ShippingQuoteModule.java
+/Users/chandanreddy/git/shopizer/sm-core-modules/src/main/java/com/salesmanager/core/modules/integration/payment/model/PaymentModule.java
+/Users/chandanreddy/git/shopizer/sm-core-modules/src/main/java/com/salesmanager/core/modules/integration/shipping/model/CustomShippingQuotesRegion.java
+/Users/chandanreddy/git/shopizer/sm-core-modules/src/main/java/com/salesmanager/core/modules/utils/GeoLocation.java
+/Users/chandanreddy/git/shopizer/sm-core-modules/src/main/java/com/salesmanager/core/modules/integration/shipping/model/CustomShippingQuoteWeightItem.java
+/Users/chandanreddy/git/shopizer/sm-core-modules/src/main/java/com/salesmanager/core/modules/Module.java
+/Users/chandanreddy/git/shopizer/sm-core-modules/src/main/java/com/salesmanager/core/modules/integration/shipping/model/CustomShippingQuoteItem.java
+/Users/chandanreddy/git/shopizer/sm-core-modules/src/main/java/com/salesmanager/core/modules/constants/Constants.java
+/Users/chandanreddy/git/shopizer/sm-core-modules/src/main/java/com/salesmanager/core/modules/integration/IntegrationException.java
+/Users/chandanreddy/git/shopizer/sm-core-modules/src/main/java/com/salesmanager/core/modules/order/total/OrderTotalPostProcessorModule.java
