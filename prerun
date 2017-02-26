@@ -1,0 +1,5 @@
+ssh-keygen -t rsa
+ssh-copy-id user@ip
+./frstack
+
+NOTE: Have the valid hosts in etd/hosts in ansible folder 
